@@ -1,11 +1,13 @@
 # 🧢Aplicação de Tecnologia Embarcada para Acessibilidade de Pessoas​ com Deficiência Visual
 
-Este projeto usa um sensor ultrassônico para medir distância e aciona um buzzer quando algo se aproxima a menos de 30 cm. O código é estruturado com FreeRTOS, usando duas tarefas:
+De acordo com a Organização Mundial da Saúde (OMS), estima-se que cerca de 285 milhões de pessoas no mundo vivem com algum tipo de deficiência visual, sendo que 39 milhões são cegas e 246 milhões têm baixa visão, limitando sua autonomia e segurança na locomoção.​
 
-- **Tarefa 1:** Mede a distância com o sensor HC-SR04
-- **Tarefa 2:** Aciona o buzzer conforme a distância
+ Embora existam tecnologias assistivas como bengalas e cães-guia, muitas são inacessíveis devido ao alto custo ou à complexidade de uso. Com o avanço da eletrônica e da programação embarcada, é possível desenvolver soluções simples, eficazes e de baixo custo.​
+
+ Este projeto propõe a criação de um boné inteligente com sensor ultrassônico e buzzer, capaz de alertar o usuário sobre obstáculos à sua frente, promovendo maior independência e segurança.​
 
 ## 🛠 Métodos
+
  °Materiais Utilizados:​
 
  o Boné comum​
